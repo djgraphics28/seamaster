@@ -2,7 +2,7 @@
     $sideBarLinks = json_decode($sidenav);
 @endphp
 
-<div class="sidebar bg--dark">
+<div class="sidebar">
     <button class="res-sidebar-close-btn"><i class="las la-times"></i></button>
     <div class="sidebar__inner">
         <div class="sidebar__logo">
