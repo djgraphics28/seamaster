@@ -5230,7 +5230,7 @@ th.w-85 {
 
 .sidebar__menu .sidebar-menu-item .side-menu--open,
 .sidebar__menu .sidebar-menu-item.active>a {
-  background-color: #4634ff !important;
+  background-color: #FF9900 !important;
 }
 
 .sidebar__menu .menu-icon {
@@ -5291,7 +5291,7 @@ th.w-85 {
 }
 
 .sidebar__menu .sidebar-submenu .sidebar-menu-item.active>a {
-  background-color: #4634ff59 !important;
+  background-color: #FF9900 !important;
 }
 
 .sidebar__menu .sidebar-submenu .sidebar-menu-item.active a .menu-icon {
@@ -5411,12 +5411,12 @@ th.w-85 {
 
 .sidebar.pill--bg-1 .sidebar-menu-item .side-menu--open,
 .sidebar.pill--bg-1 .sidebar-menu-item.active>a {
-  background-color: #4634ff;
+  background-color: #FF9900;
 }
 
 .sidebar.pill--bg-2 .sidebar-menu-item .side-menu--open,
 .sidebar.pill--bg-2 .sidebar-menu-item.active>a {
-  background-color: #1e9ff2;
+  background-color: #FFFFFF;
 }
 
 .sidebar.pill--bg-3 .sidebar-menu-item .side-menu--open,
